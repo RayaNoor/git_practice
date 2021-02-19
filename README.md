@@ -22,3 +22,4 @@ a couple more words
 - Deinonychus spp.
 - Troodon spp.
 - Spinosaurus (now with extr crocodile flavor)
+- Yoshi
