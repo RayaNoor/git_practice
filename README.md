@@ -18,6 +18,8 @@ a couple more words
 - Pelican
 - Big Bird
 - [x] Pidgin
+- yellow peep
+- Bird Person
 
 ## these things could be birds
 
@@ -28,6 +30,8 @@ a couple more words
 - Yoshi
 - Tiny whoop
 - hawk moth
+- Twitter
+
 
 ## if you or your loved one is approached by a bird
 
