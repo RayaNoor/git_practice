@@ -24,8 +24,13 @@ a couple more words
 - Tyrannosaurus rex
 - Deinonychus spp.
 - Troodon spp.
-- Spinosaurus (now with extr crocodile flavor)
+- Spinosaurus (now with extra crocodile flavor)
 - Yoshi
 - hawk moth
 
+## if you or your loved one is approached by a bird
 
+- crouch to appear smol
+- bring seeb
+- wait patiently
+- make birb friends
