@@ -9,6 +9,9 @@ a couple more words
 - rooster
 - hummingbird
 - the majestic goaterfly
+- Red-Tailed Hawk
+- Red-Shouldered Hawk
+- Swainson's Hawk
 
 ## a subtopic
 
