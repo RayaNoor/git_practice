@@ -41,3 +41,4 @@ a couple more words
 - bring seeb
 - wait patiently
 - make birb friends
+- cat
