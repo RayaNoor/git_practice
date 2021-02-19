@@ -20,6 +20,7 @@ a couple more words
 - [x] Pidgin
 - yellow peep
 - Bird Person
+- murmurations
 
 ## these things could be birds
 
@@ -31,7 +32,7 @@ a couple more words
 - Tiny whoop
 - hawk moth
 - Twitter
-
+- nose whistles
 
 ## if you or your loved one is approached by a bird
 
