@@ -15,6 +15,8 @@ a couple more words
 - Red-Tailed Hawk
 - Red-Shouldered Hawk
 - Swainson's Hawk
+- Pelican
+- Big Bird
 - [x] Pidgin
 
 ## these things could be birds
@@ -24,3 +26,6 @@ a couple more words
 - Troodon spp.
 - Spinosaurus (now with extr crocodile flavor)
 - Yoshi
+- hawk moth
+
+
