@@ -14,7 +14,11 @@ a couple more words
 - Red-Shouldered Hawk
 - Swainson's Hawk
 
-## a subtopic
+## these things could be birds
 
-there you go
+Tyrannosaurus rex
+Deinonychus spp.
+Troodon spp.
+Spinosaurus (now with extr crocodile flavor)
+
 
