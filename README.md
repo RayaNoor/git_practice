@@ -7,6 +7,8 @@ a couple more words
 - raven
 - parrot
 - rooster
+- hummingbird
+- the majestic goaterfly
 
 ## a subtopic
 
