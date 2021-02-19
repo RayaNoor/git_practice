@@ -26,6 +26,7 @@ a couple more words
 - Troodon spp.
 - Spinosaurus (now with extra crocodile flavor)
 - Yoshi
+- Tiny whoop
 - hawk moth
 
 ## if you or your loved one is approached by a bird
