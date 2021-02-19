@@ -9,6 +9,7 @@ a couple more words
 - rooster
 - hummingbird
 - the majestic goaterfly
+- blue footed boobie
 
 ## a subtopic
 
