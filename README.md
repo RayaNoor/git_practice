@@ -22,5 +22,6 @@ Tyrannosaurus rex
 Deinonychus spp.
 Troodon spp.
 Spinosaurus (now with extr crocodile flavor)
+Yoshi
 
 
