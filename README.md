@@ -18,9 +18,7 @@ a couple more words
 
 ## these things could be birds
 
-Tyrannosaurus rex
-Deinonychus spp.
-Troodon spp.
-Spinosaurus (now with extr crocodile flavor)
-
-
+- Tyrannosaurus rex
+- Deinonychus spp.
+- Troodon spp.
+- Spinosaurus (now with extr crocodile flavor)
