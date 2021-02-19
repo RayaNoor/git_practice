@@ -42,4 +42,4 @@ a couple more words
 - wait patiently
 - make birb friends
 - watch the world burn together
-- cat
+- NO, PROTECT BIRD FROM CAT
