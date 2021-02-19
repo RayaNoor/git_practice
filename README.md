@@ -15,6 +15,7 @@ a couple more words
 - Red-Tailed Hawk
 - Red-Shouldered Hawk
 - Swainson's Hawk
+- [x] Pidgin
 
 ## these things could be birds
 
