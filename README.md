@@ -9,6 +9,8 @@ a couple more words
 - rooster
 - hummingbird
 - the majestic goaterfly
+- magpie
+- robin
 
 ## a subtopic
 
