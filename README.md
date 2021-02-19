@@ -24,3 +24,10 @@ a couple more words
 - Troodon spp.
 - Spinosaurus (now with extra crocodile flavor)
 - Yoshi
+
+## if you or your loved one is approached by a bird
+
+- crouch to appear smol
+- bring seeb
+- wait patiently
+- make birb friends
