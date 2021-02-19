@@ -11,8 +11,16 @@ a couple more words
 - the majestic goaterfly
 - magpie
 - robin
+- blue footed boobie
+- Red-Tailed Hawk
+- Red-Shouldered Hawk
+- Swainson's Hawk
 
-## a subtopic
+## these things could be birds
 
-there you go
+Tyrannosaurus rex
+Deinonychus spp.
+Troodon spp.
+Spinosaurus (now with extr crocodile flavor)
+
 
