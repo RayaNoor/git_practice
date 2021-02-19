@@ -22,5 +22,5 @@ a couple more words
 - Tyrannosaurus rex
 - Deinonychus spp.
 - Troodon spp.
-- Spinosaurus (now with extr crocodile flavor)
+- Spinosaurus (now with extra crocodile flavor)
 - Yoshi
