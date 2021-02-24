@@ -27,6 +27,7 @@ a couple more words
 - Tyrannosaurus rex
 - Deinonychus spp.
 - Troodon spp.
+- Spy cameras
 - Spinosaurus (now with extra crocodile flavor)
 - Yoshi
 - Tiny whoop
