@@ -41,6 +41,6 @@ a couple more words
 - crouch to appear smol
 - bring seeb
 - wait patiently
+- give bread to bird
 - make birb friends
-- watch the world burn together
-- NO, PROTECT BIRD FROM CAT
+- watch the world burn together  
