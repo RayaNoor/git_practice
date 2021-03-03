@@ -42,5 +42,7 @@ a couple more words
 - bring seeb
 - wait patiently
 - give bread to bird
+- did bird like bread?
+- all birds like bread    
 - make birb friends
 - watch the world burn together  
